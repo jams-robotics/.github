@@ -14,8 +14,8 @@ Plataforma web abierta donde estudiantes de ingeniería aprenden la física y la
 
 - **¿Viste un error en un tema, un número que no cuadra o algo que no funciona?** Abre un issue en el repositorio. Los hallazgos de las auditorías de contenido, UX y seguridad están públicos y se cierran a la vista de todos.
 - **¿Eres docente?** Cuéntanos cómo lo usarías en clase o proponnos un ejercicio con el robot de tu laboratorio.
-- **¿Quieres apoyar el proyecto?** [Invítame a un café](https://www.paypal.com/paypalme/jaimetorres286). No hace falta, pero ayuda a pagar el dominio y la base de datos.
+- **¿Quieres apoyar el proyecto?** [Invítame a un café](https://ko-fi.com/jams286). No hace falta, pero ayuda a pagar el dominio y la base de datos.
 
 ## Contacto
 
-Jaime286tm@gmail.com
+contacto@trayectoria.org
