@@ -4,10 +4,11 @@ Herramientas abiertas, en español, para aprender robótica desde la física. De
 
 ## Trayectoria · De la física al robot
 
-Plataforma web abierta donde estudiantes de ingeniería aprenden la física y la matemática de su primer robot móvil: cada tema termina en un cálculo con **tu** robot y en un simulador que corre en el navegador. Sin cuenta para empezar.
+**[trayectoria.org](https://trayectoria.org)** — plataforma web abierta donde estudiantes de ingeniería aprenden la física y la matemática de su primer robot móvil: cada tema termina en un cálculo con **tu** robot y en un simulador que corre en el navegador. Sin cuenta para empezar.
 
 - Repositorio: [jams-robotics/trayectoria](https://github.com/jams-robotics/trayectoria)
-- Ruta 1 «De la física al robot móvil»: 27 temas en 7 módulos, simulador móvil 2D, simulador de brazo 3D, perfil «Mi robot» y modo aula para docentes.
+- Dos rutas encadenadas: «Fundamentos: física y matemática para robots» (14 temas en 4 módulos) y «Robot móvil: del encoder a la pista» (11 temas en 3 módulos).
+- Simulador de robot móvil 2D con pista y control PID, simulador de brazo 3D, perfil «Mi robot» y modo aula para docentes.
 - Código MIT · Contenido CC BY-SA 4.0.
 
 ## Cómo ayudar
